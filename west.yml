@@ -21,6 +21,8 @@ manifest:
   remotes:
     - name: upstream
       url-base: https://github.com/zephyrproject-rtos
+    - name: cargomon
+      url-base: https://github.com/Cargomon-Systems
 
   #
   # Please add items below based on alphabetical order
@@ -67,7 +69,7 @@ manifest:
     - name: hal_microchip
       revision: a1ec761014740a08699720298dd37ad4da360840
       path: modules/hal/microchip
-    - name: hal_silabs
+    - name: cargomon/hal_silabs
       revision: 69c3e1e6e167767cb75aa2b468df4ade05988cdb
       path: modules/hal/silabs
     - name: hal_st

@@ -69,8 +69,9 @@ manifest:
     - name: hal_microchip
       revision: a1ec761014740a08699720298dd37ad4da360840
       path: modules/hal/microchip
-    - name: cargomon/hal_silabs
-      revision: b5886daa5494e18359d2cf1bb4824ee8605e4d1f
+    - name: hal_silabs
+      remote: cargomon
+      revision: bg22impl
       path: modules/hal/silabs
     - name: hal_st
       revision: b52fdbf4b62439be9fab9bb4bae9690a42d2fb14

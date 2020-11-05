@@ -1,0 +1,1 @@
+/home/krywult/projects/sensor-sdk/zephyr/share/zephyr-package/cmake
